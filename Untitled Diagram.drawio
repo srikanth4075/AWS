@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T07:05:57.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="othUuCpmOg_v0hs9cI88" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T07:19:10.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5ZYvgOzus8vkBwEN-hKC" version="24.2.0" type="github">
   <diagram name="Page-1" id="ufURELxltCB_q80mnHpT">
     <mxGraphModel dx="2298" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6UW5Ic7uMs2FnUfCXlE-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
-          <mxGeometry x="360" y="547" width="78" height="44" as="geometry" />
+          <mxGeometry x="360" y="530" width="78" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_6UW5Ic7uMs2FnUfCXlE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6UW5Ic7uMs2FnUfCXlE-68" target="_6UW5Ic7uMs2FnUfCXlE-5">
           <mxGeometry relative="1" as="geometry" />
@@ -151,10 +151,10 @@
           <mxGeometry x="-250" y="351.33" width="60" height="39" as="geometry" />
         </mxCell>
         <mxCell id="_6UW5Ic7uMs2FnUfCXlE-100" value="&lt;b&gt;ATHENA ROLE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="-125" y="313" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-102" value="&lt;b&gt;UNITY DATABRICKS ROLE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="518" width="180" height="30" as="geometry" />
+        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-102" value="&lt;b&gt;STORAGE CREDENTIAL&lt;/b&gt;&lt;div&gt;&lt;b&gt;ROLE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_6UW5Ic7uMs2FnUfCXlE-103" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.serverless;" vertex="1" parent="1">
           <mxGeometry x="195" y="710" width="78" height="78" as="geometry" />
@@ -166,10 +166,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6UW5Ic7uMs2FnUfCXlE-107" value="&lt;b&gt;SQL WAREHOUSES&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="218" y="830" width="60" height="30" as="geometry" />
+          <mxGeometry x="204" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-108" value="&lt;b&gt;JOB CLUSTERS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-108" value="&lt;b&gt;JOB CLUSTERS&lt;/b&gt;&lt;div&gt;&lt;b&gt;SERVICE PRINCIPALS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-112" value="&lt;b&gt;EXTERNAL LOCATION&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6UW5Ic7uMs2FnUfCXlE-113" target="_6UW5Ic7uMs2FnUfCXlE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-113" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.key_management_service;" vertex="1" parent="1">
+          <mxGeometry x="-259" y="560" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="_6UW5Ic7uMs2FnUfCXlE-115" value="&lt;b&gt;CUSTOMER&amp;nbsp; MANAGED KEY&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="520" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
